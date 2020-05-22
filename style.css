@@ -1,0 +1,68 @@
+h1{
+    font-size: 40px;
+}
+.a1{
+     color: darkorange;
+}
+img{
+    width: 420px;
+    margin-left: 0px;
+    border-radius: 100px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.banner{
+    background-image: url("2.png");
+}
+section{
+    height: 400px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(101, 155, 235),rgb(73, 175, 73));
+    padding: 8px 10px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 500px;
+}
+
+.half-width{
+    width: 40%;
+      
+}
+.b5{
+    font-size: 24px;
+}
+.singel-experience{
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+}
+#full-stack{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    
+}
+#baby-web{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,cyan);
+    padding: 8px 10px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 500px;
+}
+
